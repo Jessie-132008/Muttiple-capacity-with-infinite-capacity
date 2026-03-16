@@ -52,7 +52,7 @@ print("--------------------------------------------------------------")
 ~~~
 
 ## Output :
-![image]
+![image]()
 
 ## Result : 
  Thus,The Average number of materials in the system and conveyor, waiting time of the each material in the system and conveyor is found successfully. 
